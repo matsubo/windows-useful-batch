@@ -1,6 +1,5 @@
-#-----------------------------------
 # Cleanup windows update log file
-#-----------------------------------
+
 - cleanup-windows-update-log.bat 
   - This batch cleanups window update log file.
   - tested on Windows XP SP3
